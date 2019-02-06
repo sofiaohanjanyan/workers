@@ -2,7 +2,7 @@
 ### Workers App is a test React application.
 
 ## Installation
-Employee APP is created on Laravel Core and dependencies using ReactJS.
+Workers APP is created on Laravel Core and dependencies using ReactJS.
 
 Download the repo, install the laravel core and dependencies and start the server.
 
